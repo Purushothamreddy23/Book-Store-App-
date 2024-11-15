@@ -16,3 +16,5 @@ This project is an online bookstore application that allows users to browse, sea
 
 - **Frontend**: React with Tailwind CSS
 - **Backend**: Node.js and Express.js
+- - **Database**: MongoDB
+
